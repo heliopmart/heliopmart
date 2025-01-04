@@ -1,7 +1,7 @@
 ### Hey! I'm Hélio Martins 😉
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wipsts&show_icons=true&theme=radical)
-![GitHub status](https://github-readme-stats.vercel.app/api/top-langs/?username=Wipsts&theme=blue-green)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heliopmart&show_icons=true&theme=radical)
+![GitHub status](https://github-readme-stats.vercel.app/api/top-langs/?username=heliopmart&theme=blue-green)
 
 ### My skills
 
