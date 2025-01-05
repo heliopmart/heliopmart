@@ -1,35 +1,35 @@
-# 🌟 Olá, eu sou o Hélio Martins! 
+# 🌟 Hello, I'm Hélio Martins! 
 
-Tenho **18 anos** e grandes sonhos e muita determinação, atualmente trilhando dois caminhos desafiadores:
-- 🎓 **Acadêmico em Engenharia Mecânica** pela Universidade Federal da Grande Dourados (UFGD).
-- 💻 **Acadêmico em Engenharia de Software** pela Universidade da Grande Dourados (Unigran).
+I’m **18 years old**, full of big dreams and determination, currently pursuing two challenging paths:
+- 🎓 **Mechanical Engineering Student** at the Federal University of Grande Dourados (UFGD).
+- 💻 **Software Engineering Student** at the University of Grande Dourados (Unigran).
 
-## 🌍 Um pouco sobre mim
-- **Nascido em Campo Grande, MS**, sou 100% brasileiro. 
-- Sou movido por **desafios**, especialmente aqueles que parecem quase impossíveis. A sensação de conquistar o impossível é o que me faz continuar!
+## 🌍 A bit about me
+- **Born in Campo Grande, MS**, I'm 90% Brazilian and 10% Spanish. 
+- I'm driven by **challenges**, especially those that seem almost impossible. The thrill of conquering the impossible is what keeps me going!
 
-## 💡 O que eu faço (e aprendo):
-### **Linguagens de Programação**
-- 🚀 Domínio: **JavaScript, Python, C++, PHP**.
-- 📚 Explorando: **C#, Ruby, Dart**.
+## 💡 What I do (and learn):
+### **Programming Languages**
+- 🚀 Proficient: **JavaScript, Python, C++, PHP**.
+- 📚 Exploring: **C#, Ruby, Dart**.
 
-### **Frameworks e Ferramentas**
+### **Frameworks and Tools**
 - ⚡ **React**, **Node.js**.
-- 🎨 Linguagens de marcação: **HTML, CSS, SCSS**.
+- 🎨 Markup languages: **HTML, CSS, SCSS**.
 
-### **Banco de Dados**
+### **Databases**
 - 🗄️ **MySQL**, **MongoDB**, **MariaDB**.
 
-### Outras Skills
-- Sou o tipo de pessoa que pega uma ideia maluca e a transforma em um projeto funcional. Quer um sistema ou uma solução criativa? É comigo mesmo! 💪
+### Other Skills
+- I’m the kind of person who takes a crazy idea and turns it into a functional project. Need a system or a creative solution? I’m your person! 💪
 
-## 🎯 Meu lema:
-**“Nada é impossível, só dá um pouco mais de trabalho!”**
+## 🎯 My motto:
+**“Nothing is impossible; it just takes a little more effort!”**
 
-Não tenho problema em aprender, ensinar ou construir. Na verdade acho até divertido!
+I love learning, teaching, and building things. Honestly, I find it fun!
 
-## 📫 Onde me encontrar:
+## 📫 Where to find me:
 - 📧 Email: [helioperesmartinsneto@gmail.com]
-- 🐦 Twitter: [@seutwitter](https://twitter.com/heliopmart)
-- 💼 LinkedIn: [seu-linkedin](https://linkedin.com/in/heliopmart)
-- 📷 Instagram: [seu-linkedin](https://instagram.com/in/heliopmart)
+- 🐦 Twitter: [@heliopmart](https://twitter.com/heliopmart)
+- 💼 LinkedIn: [LinkedIn Profile](https://linkedin.com/in/heliopmart)
+- 📷 Instagram: [Instagram Profile](https://instagram.com/in/heliopmart)
