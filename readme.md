@@ -30,6 +30,6 @@ I love learning, teaching, and building things. Honestly, I find it fun!
 
 ## 📫 Where to find me:
 - 📧 Email: [helioperesmartinsneto@gmail.com]
-- 🐦 Twitter: [@heliopmart](https://twitter.com/heliopmart)
-- 💼 LinkedIn: [LinkedIn Profile](https://linkedin.com/in/heliopmart)
-- 📷 Instagram: [Instagram Profile](https://instagram.com/in/heliopmart)
+- 🐦 Twitter: [@heliopmart](https://twitter.com/helio70717204)
+- 💼 LinkedIn: [LinkedIn Profile](https://linkedin.com/in/hélio-peres-martins-neto-b94153200)
+- 📷 Instagram: [@heliopmart](https://www.instagram.com/heliopmart/)
