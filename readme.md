@@ -5,7 +5,7 @@ I’m **18 years old**, full of big dreams and determination, currently pursuing
 - 💻 **Software Engineering Student** at the University of Grande Dourados (Unigran).
 
 ## 🌍 A bit about me
-- **Born in Campo Grande, MS**, I'm 90% Brazilian and 10% Spanish. 
+- **Born in Campo Grande, MS**, I'm 100% Brazilian. 
 - I'm driven by **challenges**, especially those that seem almost impossible. The thrill of conquering the impossible is what keeps me going!
 
 ## 💡 What I do (and learn):
