@@ -10,8 +10,8 @@ I’m **18 years old**, full of big dreams and determination, currently pursuing
 
 ## 💡 What I do (and learn):
 ### **Programming Languages**
-- 🚀 Proficient: **JavaScript, TypeScript, Python, C++, PHP**.
-- 📚 Exploring: **C#, Ruby, Dart**.
+- 🚀 Proficient: **JavaScript, TypeScript, Python, PHP**.
+- 📚 Exploring: **C#, C++, Ruby, Dart**.
 
 ### **Frameworks and Tools**
 - ⚡ **React**, **Node.js**.
