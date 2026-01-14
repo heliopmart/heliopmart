@@ -1,7 +1,7 @@
 # 🌟 Hello, I'm Hélio Martins! 
 
 I’m **19 years old**, full of big dreams and determination, currently pursuing two challenging paths:
-- 🎓 **Mechanical Engineering Student** at the Federal University of Grande Dourados (UFGD).
+- 🎓 **Computer Engineering Student** at the Federal University of Grande Dourados (UFGD).
 - 💻 **Software Engineering Student** at the University of Grande Dourados (Unigran).
 
 ## 🌍 A bit about me
