@@ -1,24 +1,24 @@
 # 🌟 Hello, I'm Hélio Martins! 
 
-I’m **19 years old**, full of big dreams and determination, currently pursuing two challenging paths:
-- 🎓 **Computer Engineering Student** at the Federal University of Grande Dourados (UFGD).
+I’m **20 years old**, full of big dreams and determination, currently pursuing two challenging paths:
+- 🎓 **Electrical Engineering Student** at the Federal University of Mato Grosso do Sul (UFMS)
 - 💻 **Software Engineering Student** at the University of Grande Dourados (Unigran).
 
 ## 🌍 A bit about me
-- **Born in Campo Grande, MS**, I'm 100% Brazilian. 
+- **Born in Campo Grande, MS**. 
 - I'm driven by **challenges**, especially those that seem almost impossible. The thrill of conquering the impossible is what keeps me going!
 
 ## 💡 What I do (and learn):
 ### **Programming Languages**
-- 🚀 Proficient: **JavaScript, TypeScript, Python, PHP, C#, C++ and Java**.
-- 📚 Exploring: **Ruby, Dart, Rust**.
+- 🚀 Proficient: **JavaScript, TypeScript, Python, C++ and Java**.
+- 📚 Exploring: **Dart, Rust, GO, C#**.
 
 ### **Frameworks and Tools**
 - ⚡ **React**, **Node.js**.
 - 🎨 Markup languages: **HTML, CSS, SCSS**.
 
 ### **Databases**
-- 🗄️ **MySQL**, **MongoDB**, **MariaDB**.
+- 🗄️ **MySQL**, **MongoDB**, **PostgreSQLDB**.
 
 ### Other Skills
 - I’m the kind of person who takes a crazy idea and turns it into a functional project. Need a system or a creative solution? I’m your person! 💪
